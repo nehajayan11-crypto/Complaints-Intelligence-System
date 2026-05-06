@@ -1,4 +1,4 @@
-# Complaints-Intelligence-System (https://www.kaggle.com/code/nehajy/complaints-intelligence-system-fe/edit)
+
 Problem Statement: 
 In the financial services and eCommerce ecosystem, organizations receive thousands of customer complaints daily. However, these complaints are:
 •	Unstructured (text-heavy) 
